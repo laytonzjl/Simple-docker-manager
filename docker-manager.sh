@@ -18,7 +18,7 @@ BASE_IMAGE="pytorch/pytorch:2.5.1-cuda12.1-cudnn9-devel"
 print_header() {
     clear
     echo -e "${C_CYAN}====================================================${C_RESET}"
-    echo -e "${C_CYAN}                               实验室容器管理系统          ${C_RESET}"
+    echo -e "${C_CYAN}                 实验室容器管理系统                   ${C_RESET}"
     echo -e "${C_CYAN}====================================================${C_RESET}\n"
 }
 
