@@ -12,6 +12,7 @@
 ### 步骤 1：进入专用管理目录
 首先，切换到宿主机的专用管理目录 `/opt/container_manager`。
 ```bash
+sudo mkdir -p /opt/container_manager
 cd /opt/container_manager
 ```
 * **💡 为什么这么做？**
